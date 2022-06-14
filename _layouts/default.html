@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "ru" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Play&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+    {{ content }}
+    <footer class="page-footer teal">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Живое Тушино</h5>
+            <p class="grey-text text-lighten-4">Сообщество активных жителей района Северное Тушино</p>
+  
+  
+          </div>
+          <div class="col l3 s12">
+            <h5 class="white-text">Кампании</h5>
+            <ul>
+              <li><a class="white-text" href="/campaigns/tram">Трамвайный вопрос</a></li>
+            </ul>
+          </div>
+          <div class="col l3 s12">
+            <h5 class="white-text">Связь с нами</h5>
+            <ul>
+              <li><a class="white-text" href="https://t.me/livetushino">Телеграм-канал</a></li>
+              <li><a class="white-text" href="#!">Бот обратной связи</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+        Разработка сайта <a class="brown-text text-lighten-3" href="mailto:pavel.shlepnev@gmail.com">Павел Шлепнёв</a>
+        </div>
+      </div>
+    </footer>  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+      M.AutoInit();
+    </script>
+  </body>
+</html>
