@@ -10,36 +10,42 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    {% seo %}
   </head>
   <body>
     {{ content }}
-    <footer class="page-footer teal">
+    <footer class="page-footer light-green">
       <div class="container">
         <div class="row">
           <div class="col l6 s12">
             <h5 class="white-text">Живое Тушино</h5>
-            <p class="grey-text text-lighten-4">Сообщество активных жителей района Северное Тушино</p>
-  
-  
+            <p class="grey-text text-lighten-4">{{ site.description }}</p>
           </div>
-          <div class="col l3 s12">
+          <div class="col l2 s12">
             <h5 class="white-text">Кампании</h5>
             <ul>
               <li><a class="white-text" href="/campaigns/tram">Трамвайный вопрос</a></li>
             </ul>
           </div>
-          <div class="col l3 s12">
+          <div class="col l2 s12">
             <h5 class="white-text">Связь с нами</h5>
             <ul>
               <li><a class="white-text" href="https://t.me/livetushino">Телеграм-канал</a></li>
-              <li><a class="white-text" href="#!">Бот обратной связи</a></li>
+              <li><a class="white-text" href="https://t.me/tushino_keep_bot">Бот обратной связи</a></li>
+            </ul>
+          </div>
+          <div class="col l2 s12">
+            <h5 class="white-text">Поддержать</h5>
+            <ul>
+              <li><a class="white-text" href="https://docs.google.com/forms/d/e/1FAIpQLSdIuti7UkBxfnCeoUFm7WUpOofbpSCEKTc5qNyTBkF_SISdGg/viewform?usp=sf_link">Поддержать делом</a></li>
+              <li><a class="white-text" href="https://www.tinkoff.ru/cf/9soXm4ROuw">Поддержать рублём</a></li>
             </ul>
           </div>
         </div>
       </div>
       <div class="footer-copyright">
         <div class="container">
-        Разработка сайта <a class="brown-text text-lighten-3" href="mailto:pavel.shlepnev@gmail.com">Павел Шлепнёв</a>
+        Разработка сайта <a class="black-text text-lighten-3" href="mailto:pavel.shlepnev@gmail.com">Павел Шлепнёв</a>
         </div>
       </div>
     </footer>  

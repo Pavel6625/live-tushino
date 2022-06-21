@@ -1,5 +1,7 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://live-tushino.ru" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
-title: Живое Тушино
+title: "Живое Тушино" # the name of your site, e.g. ACME Corp.
+description: Сообщество активных жителей района Северное Тушино
 lang: ru
+plugins:
+  - jekyll-seo-tag
