@@ -11,14 +11,20 @@
 nav ul a,
 nav .brand-logo {
   color: #444;
+  font-size: medium;
 }
 
 p {
   line-height: 2rem;
+  font-size: large;
+}
+
+footer p {
+  font-size: initial;
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #38B036;
 }
 
 .parallax-container {
@@ -37,13 +43,41 @@ p {
   }
 }
 
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-  font-size: inherit;
-}
-
 footer.page-footer {
   margin: 0;
+}
+
+#index-banner .section .container {
+  max-width: 700px;
+}
+
+nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+  height: 80px;
+  line-height: 80px;
+}    
+
+.brand-logo img {
+  height: 80px;
+}
+
+@media only screen and (min-width: 601px) {
+  .brand-logo img {
+      height: 100px;
+  }
+
+  nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+      height: 100px;
+      line-height: 100px;
+  }  
+  
+  #sign-petition {
+    width: 91%; 
+    height: 80px; 
+    line-height: 80px; 
+    font-size: xxx-large;
+  }
+}
+
+#index-banner h1, #index-banner h5 {
+  background-color: rgba(0, 0, 0, 0.5);
 }

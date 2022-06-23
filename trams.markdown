@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Трамвайный вопрос"
+title: "За трамвай"
 permalink: /campaigns/tram
 ---
 # Что творится с трамвайными путями

@@ -14,9 +14,29 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    <script src="https://kit.fontawesome.com/796266c63a.js" crossorigin="anonymous"></script>
     {% seo %}
   </head>
   <body>
+    <nav class="white" role="navigation">
+      <div class="nav-wrapper container">
+          <a id="logo-container" href="/" class="brand-logo"><img src="/assets/img/live_tushino_logo.png" alt="Живое Тушино (логотип)"></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="/campaigns/tram">За трамвай</a></li>
+          <li><a href="https://t.me/tushino_keep_bot">Написать нам</a></li>
+          <li><a href="https://www.tinkoff.ru/cf/9soXm4ROuw">Поддержать рублём</a></li>
+          <li><a href="https://t.me/livetushino" class="light-green white-text">Телеграм-канал</a></li>
+        </ul>
+  
+        <ul id="nav-mobile" class="sidenav">
+          <li><a href="/campaigns/tram">За трамвай</a></li>
+          <li><a href="https://t.me/tushino_keep_bot">Написать нам</a></li>
+          <li><a href="https://www.tinkoff.ru/cf/9soXm4ROuw">Поддержать рублём</a></li>
+          <li><a href="https://t.me/livetushino" class="light-green white-text">Телеграм-канал</a></li>
+        </ul>
+        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      </div>
+    </nav>    
     {{ content }}
     <footer class="page-footer light-green">
       <div class="container">
@@ -28,7 +48,7 @@
           <div class="col l2 s12">
             <h5 class="white-text">Кампании</h5>
             <ul>
-              <li><a class="white-text" href="/campaigns/tram">Трамвайный вопрос</a></li>
+              <li><a class="white-text" href="/campaigns/tram">За трамвай</a></li>
             </ul>
           </div>
           <div class="col l2 s12">
