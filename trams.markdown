@@ -31,3 +31,198 @@ permalink: /campaigns/tram
 <img src="/assets/img/Перекрытия.jpeg" class="responsive-img">
 
 Подробнее можно посмотреть на [сайте Мосгортранса](https://transport.mos.ru/mostrans/all_news/110335).
+
+# Всего подписали петицию 40 человек и часть из них захотели опубличить свою подпись, публикуем их
+:::row:::
+   :::column span="":::
+      Ермакова Марина Ивановна
+   :::column-end:::
+   :::column span="":::
+      
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Масюк  Валентина  
+   :::column-end:::
+   :::column span="":::
+      
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Тимофеева Ольга Викторовна 
+   :::column-end:::
+   :::column span="":::
+      Это не только мой голос. Это крик души педагогов и учеников школы на Вишневой улице, добирающихся до места работы и учебы на любимом трамвае как на единственно удобном виде транспорта
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Лукина Ольга Алексеевна
+   :::column-end:::
+   :::column span="":::
+       За сохранение трамвайного маршрута
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Павлов Иван
+   :::column-end:::
+   :::column span="":::
+       Организовать проверку в части нецелевого использования средств при проведении ремонтных работ организацией ООО "ТЕХНОКОНЦЕПТ" в 2020–
+2021 годах (0173200001420000781).
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Кухаркина  Анастасия Леонидовна
+   :::column-end:::
+   :::column span="":::
+        Нормально делай, нормально будет! 
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Косыгин Сергей Вячеславтвич
+   :::column-end:::
+   :::column span="":::
+        Первым делом сделать переезды через трамвайные пути, чтобы весь остальной транспорт не собирался в пробки на переездах. 
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Донская Ольга
+   :::column-end:::
+   :::column span="":::
+        Это не только мой голос. Это крик души педагогов и учеников школы на Вишневой улице, добирающихся до места работы и учебы на любимом трамвае как на единственно удобном виде транспорта.  
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Жукова Татьяна Григорьевна
+   :::column-end:::
+   :::column span="":::
+        Наша семья (4 человека) присоединяется к требованиям ЗАКОНЧИТЬ НАКОНЕЦ РЕМОНТ трамвайных путей и переездов через них.
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Жуков Владимир Юрьевич
+   :::column-end:::
+   :::column span="":::
+        Предлагаю вернуть линейные бригады, осмотр путей ежеквартально. Но сначала надо ДОДЕЛАТЬ РЕМОНТ!!!
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Ильина Галина Викторовна
+   :::column-end:::
+   :::column span="":::
+        Отремонтировать пути и переезды через них. 
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Никитин Илья Владимирович
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Гуськов  Антон  Юрьевич 
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Ерилова Надежда  
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Кравченко Олег  
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+ :::row:::
+   :::column span="":::
+      Осипов Сергей Семенович  
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Артемьева  Анастасия  
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Афанасьев  Дмитрий Валерьевич 
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Козлов  Алексей  
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Маслов Михаил Игоревич 
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Саджая Наталья Федоровна 
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Баширова Рамиля  
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Дарнецкая  Юлия  Витальевна 
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      Ерёмина  Алина  Алексеевна
+   :::column-end:::
+   :::column span="":::
+       
+   :::column-end:::
+:::row-end:::
