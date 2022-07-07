@@ -37,6 +37,16 @@ footer p {
     width: 100%;
   }
 
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}  
+
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
@@ -80,8 +90,4 @@ nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
     line-height: 80px; 
     font-size: xxx-large;
   }
-}
-
-#index-banner h1, #index-banner h5 {
-  background-color: rgba(0, 0, 0, 0.5);
 }

@@ -1,0 +1,32 @@
+---
+layout: page
+title: Кандидаты
+permalink: /candidates
+---
+{% assign candidates1 = site.data.candidates | where: 'district', 1 %}
+{% assign candidates3 = site.data.candidates | where: 'district', 3 %}
+<section id="district1">
+    <h2>Кандидаты избирательного округа №1</h2>
+    {% for candidate in candidates1 %}
+    <div class="row">
+        <div class="col m4 s12"><img class="responsive-img" src="{{ candidate.photo }}" style="max-height: 500px; padding-top: 2.5rem;"></div>
+        <div class="col m8 s12">
+            <h3>{{ candidate.name }}</h3>
+            <p>{{ candidate.bio }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</section>
+
+<section id="district3">
+    <h2>Кандидаты избирательного округа №3</h2>
+    {% for candidate in candidates3 %}
+    <div class="row">
+        <div class="col m4 s12"><img class="responsive-img" src="{{ candidate.photo }}" style="max-height: 500px; padding-top: 2.5rem;"></div>
+        <div class="col m8 s12">
+            <h3>{{ candidate.name }}</h3>
+            <p>{{ candidate.bio }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</section>

@@ -1,7 +1,7 @@
 url: "http://live-tushino.ru" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Живое Тушино" # the name of your site, e.g. ACME Corp.
-description: Сообщество активных жителей района Северное Тушино
+description: Помогите нам стать зарегистрированными кандидатами на муниципальных выборах
 lang: ru
 plugins:
   - jekyll-seo-tag
