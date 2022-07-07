@@ -9,7 +9,7 @@ permalink: /candidates
     <h2>Кандидаты избирательного округа №1</h2>
     {% for candidate in candidates1 %}
     <div class="row">
-        <div class="col m4 s12"><img class="responsive-img" src="{{ candidate.photo }}" style="max-height: 500px; padding-top: 2.5rem;"></div>
+        <div class="col m4 s12"><img class="responsive-img" src="{{ candidate.photo }}" style="padding-top: 2.5rem;"></div>
         <div class="col m8 s12">
             <h3>{{ candidate.name }}</h3>
             <p>{{ candidate.bio }}</p>
@@ -22,7 +22,7 @@ permalink: /candidates
     <h2>Кандидаты избирательного округа №3</h2>
     {% for candidate in candidates3 %}
     <div class="row">
-        <div class="col m4 s12"><img class="responsive-img" src="{{ candidate.photo }}" style="max-height: 500px; padding-top: 2.5rem;"></div>
+        <div class="col m4 s12"><img class="responsive-img" src="{{ candidate.photo }}" style="padding-top: 2.5rem;"></div>
         <div class="col m8 s12">
             <h3>{{ candidate.name }}</h3>
             <p>{{ candidate.bio }}</p>
